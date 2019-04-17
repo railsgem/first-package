@@ -1,0 +1,13 @@
+{
+    "name": "railsgem/first-package",
+    "description": "Hello world package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ying Chen",
+            "email": "jun.chenying@gmail.com"
+        }
+    ],
+    "require": {}
+}
