@@ -1,7 +1,7 @@
 <?php 
 namespace HelloWorld;
 
-class Print
+class PrintSomething
 {
     public static function helloWorld()
     {
